@@ -32,5 +32,5 @@ Sensors → ESP32 → IoT Dashboard → Automated Food Dispenser
 - IoT-based automation
 
 ## 📌 Project Status
-Academic Project | Under Development
+Academic Project completed
 
