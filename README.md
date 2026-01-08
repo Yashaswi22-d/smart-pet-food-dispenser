@@ -33,4 +33,10 @@ Sensors → ESP32 → IoT Dashboard → Automated Food Dispenser
 
 ## 📌 Project Status
 Academic Project completed
+## 🔬 Sensor Implementation
+- MAX30100 used for heart rate monitoring (simulated values in code)
+- MAX30205 used for temperature sensing (logic included)
+- HX711 load cell used for weight measurement
+- Health-based alert using buzzer
+- Automated motor control for food dispensing
 
