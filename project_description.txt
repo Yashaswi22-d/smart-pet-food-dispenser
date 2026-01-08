@@ -1,0 +1,6 @@
+This project was developed as part of academic learning to explore IoT, embedded systems, and basic health monitoring applications.
+
+Future improvements include:
+- AI-based feeding recommendations
+- Cloud data storage
+- Mobile app integration
